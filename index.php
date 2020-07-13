@@ -1,9 +1,5 @@
 <?php 
 
-	echo "Olá Mundo Testando!";
-
-	echo "Olá Hanane";
-
-	echo "Testando";
+	echo "Testando o jeito correto!";
 
 ?>
